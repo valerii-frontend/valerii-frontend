@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valerii-frontend
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on Js gamedev
 - 📫 How to reach me https://t.me/valerii_frontend
 
