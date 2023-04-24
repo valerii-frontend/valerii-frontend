@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 - 👋 Hi, my name is Valerii
 - 👨‍💻 I’m a Frontend Developer
 - ⚒ Primary — JavaScript, React js, Node.js
