@@ -2,9 +2,9 @@
 
 - 👋 Hi, my name is Valerii
 - 👨‍💻 I’m a Frontend Developer
-- ⚒ Primary — JavaScript, React js, Node.js
+- ⚒ Primary — JavaScript, React
 - 💻 SCSS, CSS modules, Styled components
-- 🖥 Other knowledge: JQuery, Bootstrap 5.1, TailWind CSS, TypeScript, NPM, Gulp, Jest, StoryBook, Python
+- 🖥 Other knowledge: JQuery, Bootstrap 5.1, TailWind CSS, TypeScript, NPM, Gulp, Jest, StoryBook, Python, Node.js, Redux
 - 🤓 Like to solve puzzles and improve myself
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=yellow&style=flat-square)
