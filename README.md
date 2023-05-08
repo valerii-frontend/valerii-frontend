@@ -1,11 +1,13 @@
 ![Header](./header.png)
 
+
 - 👋 Hi, my name is Valerii
 - 👨‍💻 I’m a Frontend Developer
 - ⚒ Primary — JavaScript, React
 - 💻 SCSS, CSS modules, Styled components
 - 🖥 Other knowledge: JQuery, Bootstrap 5.1, TailWind CSS, TypeScript, NPM, Gulp, Jest, StoryBook, Python, Node.js, Redux
 - 🤓 Like to solve puzzles and improve myself
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valerii-frontend&hide_progress=false&layout=compact&theme=shades-of-purple&card_width=373&border_radius=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=valerii-frontend&show_icons=true&theme=shades-of-purple&custom_title=My%20commits%20stats&line_height=20&&card_width=405&border_radius=0&hide_border=true)
 
