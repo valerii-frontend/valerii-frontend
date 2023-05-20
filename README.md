@@ -13,7 +13,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valerii-frontend&theme=shades-of-purple&card_width=500&background=90%2C2D2B55%2C643783&card_width=832&border_radius=0&hide_border=true)](https://git.io/streak-stats)
 
-
+<img width='832' src="https://wakatime.com/share/@610f1e99-b8bc-4bd0-beb6-4fcdd31c3b0b/bdf12e46-9532-48db-ad80-0b57cb388035.svg"/>
+<img width='832' src="https://wakatime.com/share/@610f1e99-b8bc-4bd0-beb6-4fcdd31c3b0b/b8a8201f-b9ea-4994-bc79-76c083516fac.svg"/>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=yellow&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
