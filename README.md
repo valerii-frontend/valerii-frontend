@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valerii-frontend&layout=compact&hide_progress=false&theme=shades-of-purple&card_width=373&border_radius=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=valerii-frontend&show_icons=true&theme=shades-of-purple&custom_title=My%20commits%20stats&line_height=20&&card_width=405&border_radius=0&hide_border=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valerii-frontend&card_width=500&theme=shades-of-purple&background=90%2C2D2B55%2C643783&card_width=832&border_radius=0&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valerii-frontend)](https://git.io/streak-stats)
 
 <img width='832' src="https://wakatime.com/share/@610f1e99-b8bc-4bd0-beb6-4fcdd31c3b0b/bdf12e46-9532-48db-ad80-0b57cb388035.svg"/>
 <img width='832' src="https://wakatime.com/share/@610f1e99-b8bc-4bd0-beb6-4fcdd31c3b0b/b8a8201f-b9ea-4994-bc79-76c083516fac.svg"/>
