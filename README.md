@@ -3,9 +3,9 @@
 
 - 👋 Hi, my name is Valerii
 - 👨‍💻 I’m a Frontend Developer
-- ⚒ Primary — JavaScript, React
+- ⚒ Primary — JavaScript, React, Redux, TypeScript, Next JS
 - 💻 SCSS, CSS modules, Styled components
-- 🖥 Other knowledge: JQuery, Bootstrap 5.1, TailWind CSS, TypeScript, NPM, Gulp, Jest, StoryBook, Python, Node.js, Redux
+- 🖥 Other knowledge: JQuery, Bootstrap 5.1, TailWind CSS, NPM, Gulp, Jest, StoryBook, Python, Node.js 
 - 🤓 Like to solve puzzles and improve myself
 
 
