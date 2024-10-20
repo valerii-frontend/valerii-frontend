@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-https://github-profile-trophy.vercel.app/?username=valerii-frontend&&rank=SECRET,SSS,SS,S,AAA,AA,A
+![https://github-profile-trophy.vercel.app/?username=valerii-frontend&&rank=SECRET,SSS,SS,S,AAA,AA,A](https://github-profile-trophy.vercel.app/?username=valerii-frontend&&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 - 👋 Hi, my name is Valerii
 - 👨‍💻 I’m a Software Engineer
