@@ -9,9 +9,6 @@
 - 🖥 Other knowledge: JQuery, Bootstrap 5.1, TailWind CSS, NPM, Gulp, Jest, StoryBook, Python, Node.js 
 - 🤓 Like to solve puzzles and improve myself
 
-<img width='832' src="https://wakatime.com/share/@610f1e99-b8bc-4bd0-beb6-4fcdd31c3b0b/bdf12e46-9532-48db-ad80-0b57cb388035.svg"/>
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=yellow&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
