@@ -8,21 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib-action@v1.0.4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: valerii-frontend
-
-      - name: Push changes
+      - uses: actions/checkout@v3
+      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Pull latest changes
+        run: git pull --force origin main
+      - name: Commit & Push
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git add -A
-          git commit -m "Update 3D Contribution Graph"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
           git push
