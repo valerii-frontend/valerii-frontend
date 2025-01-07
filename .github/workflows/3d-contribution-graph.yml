@@ -1,26 +1,27 @@
-name: Generate 3D Contribution Graph
+name: 3D_draw
 
 on:
-  schedule:
+  schedule: 
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04
-    name: generate-github-profile-3d-contrib
+    runs-on: ubuntu-latest
+    name: profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: draw
+        uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          token: ${{ secrets.GRAPH_TKN }}
-          username: ${{ github.repository_owner }}
-      - name: Pull latest changes
-        run: git pull --force origin main
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: commit_changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: ${{ github.repository_owner }}
+          author_email: ${{secrets.EMAIL}}
+          message: "Create github-profile-3d-contrib by Github Actions"
