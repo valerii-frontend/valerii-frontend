@@ -1,5 +1,4 @@
-![Header](./header.png)
-
+![](./profile-3d-contrib/profile-green.svg)
 ![https://github-profile-trophy.vercel.app/?username=valerii-frontend&&rank=SECRET,SSS,SS,S,AAA,AA,A](https://github-profile-trophy.vercel.app/?username=valerii-frontend&&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 - 👋 Hi, my name is Valerii
